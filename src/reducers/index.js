@@ -18,6 +18,14 @@ const songsReducer = () => {
       title: "some songs",
       duration: "11:25",
     },
+    {
+      title: "Ghomeishi",
+      duration: "11:25",
+    },
+    {
+      title: "Ebi",
+      duration: "11:25",
+    },
   ];
 };
 
